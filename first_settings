@@ -1,0 +1,6 @@
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt install nmap -y
+sudo apt install virtualbox -y
+sudo apt install htop -y
+sudo apt install postgresql -y
